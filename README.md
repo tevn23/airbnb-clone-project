@@ -279,7 +279,7 @@ SonarCloud / CodeCov: Tools for code quality analysis and test coverage reportin
 
 # Front End
 
-## UI/UX Planning
+## UI/UX Design Planning
 ## Project Roles and Responsibilities
 ## UI Component Patterns
 
