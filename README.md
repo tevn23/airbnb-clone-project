@@ -277,3 +277,9 @@ AWS CodeDeploy / AWS Elastic Beanstalk / Heroku / DigitalOcean App Platform: The
 
 SonarCloud / CodeCov: Tools for code quality analysis and test coverage reporting that can be integrated into the pipeline to provide insights into the health of the codebase.
 
+# Front End
+
+## UI/UX Planning
+## Project Roles and Responsibilities
+## UI Component Patterns
+
